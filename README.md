@@ -1,5 +1,3 @@
-Sure, here's the formatted README structure that you can directly copy and paste:
-
 # Boston House Pricing Prediction
 
 This project is a Flask application that deploys a machine learning model to predict house prices in Boston. The project also includes a Docker configuration for easy deployment.
